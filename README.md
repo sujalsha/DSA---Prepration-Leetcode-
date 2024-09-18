@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
