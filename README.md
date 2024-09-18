@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
