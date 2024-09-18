@@ -42,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
