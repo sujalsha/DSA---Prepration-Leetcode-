@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
