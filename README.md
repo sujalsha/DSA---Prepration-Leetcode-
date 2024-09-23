@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 ## Trie
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
 ## Sliding Window
 |  |
