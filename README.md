@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2350-find-closest-number-to-zero](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2350-find-closest-number-to-zero) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 ## Trie
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
