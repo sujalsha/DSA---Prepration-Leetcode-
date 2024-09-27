@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
