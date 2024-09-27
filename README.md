@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
