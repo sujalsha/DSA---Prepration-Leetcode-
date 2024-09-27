@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
