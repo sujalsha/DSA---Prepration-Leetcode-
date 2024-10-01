@@ -122,4 +122,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
