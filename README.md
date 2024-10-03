@@ -128,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
