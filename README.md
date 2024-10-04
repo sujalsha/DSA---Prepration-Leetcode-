@@ -151,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
