@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
