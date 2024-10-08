@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
