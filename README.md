@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
