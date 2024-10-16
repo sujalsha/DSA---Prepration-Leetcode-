@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2350-find-closest-number-to-zero) |
+| [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
+| [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
+| [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
 ## Matrix
 |  |
 | ------- |
