@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2350-find-closest-number-to-zero) |
 | [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Trie
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 <!---LeetCode Topics End-->
