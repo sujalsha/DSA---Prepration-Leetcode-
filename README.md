@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0206-reverse-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Combinatorics
 |  |
