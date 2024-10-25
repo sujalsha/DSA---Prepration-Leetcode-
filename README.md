@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
