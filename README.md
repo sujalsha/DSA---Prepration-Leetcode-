@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
