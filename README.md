@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
