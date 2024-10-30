@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
