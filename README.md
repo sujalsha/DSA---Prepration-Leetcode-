@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
