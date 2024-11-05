@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
