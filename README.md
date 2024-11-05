@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
