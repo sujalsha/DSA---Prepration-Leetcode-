@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
