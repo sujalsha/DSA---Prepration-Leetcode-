@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
