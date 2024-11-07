@@ -14,6 +14,6 @@ public:
             ptr2 = nums[ptr2];
 
         }
-        return ptr1;
+        return ptr2;
     }
 };
