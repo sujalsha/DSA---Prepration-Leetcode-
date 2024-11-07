@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
