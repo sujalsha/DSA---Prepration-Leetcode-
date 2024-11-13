@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 | [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0355-design-twitter) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
