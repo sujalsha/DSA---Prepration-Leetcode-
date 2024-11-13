@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0119-pascals-triangle-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
