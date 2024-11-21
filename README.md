@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0494-target-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Trie
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
