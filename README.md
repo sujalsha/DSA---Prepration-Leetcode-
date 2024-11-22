@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0036-valid-sudoku) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0011-container-with-most-water) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Heap (Priority Queue)
 |  |
