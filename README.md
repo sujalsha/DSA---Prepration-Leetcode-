@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1923-sentence-similarity-iii) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0768-partition-labels) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1894-merge-strings-alternately) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0383-ransom-note) |
+| [0768-partition-labels](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0768-partition-labels) |
 | [1297-maximum-number-of-balloons](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1297-maximum-number-of-balloons) |
 | [3324-split-the-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/3324-split-the-array) |
 ## Math
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0768-partition-labels) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Heap (Priority Queue)
 |  |
