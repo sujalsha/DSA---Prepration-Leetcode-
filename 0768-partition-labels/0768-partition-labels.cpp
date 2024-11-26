@@ -5,7 +5,7 @@ public:
         for(int i = 0; i < s.size(); i++){
             char ch = s[i];
             mp[ch] = i;
-        } 
+        }
         vector<int> res;
         int prev = -1;
         int maxi = 0;     
