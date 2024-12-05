@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0119-pascals-triangle-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
