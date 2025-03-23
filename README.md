@@ -331,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
