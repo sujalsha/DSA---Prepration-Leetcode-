@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0125-valid-palindrome) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sujalsha/DSA---Prepration-Leetcode-/tree/master/0206-reverse-linked-list) |
