@@ -1,41 +1,39 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& num) {
-        int n = num.size();
+    vector<vector<int>> twoSum(int target, vector<int>& num, int number, int start) {
         vector<vector<int>> res;
-        sort(num.begin(), num.end());
-        for (int i = 0; i < num.size(); i++) {
-        
-        int target = -num[i];
-        int front = i + 1;
-        int back = num.size() - 1;
+        int i = start, j = num.size() - 1;
 
-        while (front < back) {
-
-            int sum = num[front] + num[back];
-            
-            if (sum < target)
-                front++;
-
-            else if (sum > target)
-                back--;
-
-            else {
-                vector<int> triplet = {num[i], num[front], num[back]};
-                res.push_back(triplet);
-                
-                
-                while (front < back && num[front] == triplet[1]) front++;
-
-                while (front < back && num[back] == triplet[2]) back--;
+        while (i < j) {
+            int sum = num[i] + num[j];
+            if (sum == target) {
+                res.push_back({number, num[i], num[j]});
+                ++i;
+                --j;
+               
+                while (i < j && num[i] == num[i - 1]) ++i;
+                while (i < j && num[j] == num[j + 1]) --j;
+            } else if (sum < target) {
+                ++i;
+            } else {
+                --j;
             }
-            
         }
-        while (i + 1 < num.size() && num[i + 1] == num[i]) 
-            i++;
 
+        return res;
     }
-    
-    return res;
+
+    vector<vector<int>> threeSum(vector<int>& num) {
+        vector<vector<int>> ans;
+        sort(num.begin(), num.end());
+
+        for (int i = 0; i < num.size(); ++i) {
+            if (i > 0 && num[i] == num[i - 1]) continue; 
+            int target = -num[i];
+            vector<vector<int>> pairs = twoSum(target, num, num[i], i + 1);
+            ans.insert(ans.end(), pairs.begin(), pairs.end());
+        }
+
+        return ans;
     }
 };
