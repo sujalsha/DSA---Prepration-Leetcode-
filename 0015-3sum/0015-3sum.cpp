@@ -4,7 +4,7 @@ public:
         int n = num.size();
         vector<vector<int>> res;
         sort(num.begin(), num.end());
-         for (int i = 0; i < num.size(); i++) {
+        for (int i = 0; i < num.size(); i++) {
         
         int target = -num[i];
         int front = i + 1;
